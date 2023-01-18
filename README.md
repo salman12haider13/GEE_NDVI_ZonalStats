@@ -22,7 +22,7 @@ This repository contains a script for calculating and visualizing Normalized Dif
 - A shapefile of cities within the AOI
 
 ## Built With
--Google Earth Engine
+- Google Earth Engine
 
 ## Acknowledgments
 - This script was created using the GEE documentation and tutorials as a guide.
